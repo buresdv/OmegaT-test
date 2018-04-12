@@ -20,6 +20,14 @@
         <seg>Extremely credible</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ok?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180412T103108Z" creationid="bures" creationdate="20180412T103108Z">
+        <seg>Whyyy</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
