@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_r10323" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t20/&gt;We&lt;t21/&gt; &lt;t22/&gt;have&lt;t23/&gt; so many &lt;t24/&gt;things&lt;t25/&gt; that &lt;t26/&gt;we&lt;t27/&gt; &lt;t28/&gt;have&lt;t29/&gt; to do &lt;t30/&gt;better&lt;t31/&gt;... and &lt;t32/&gt;certainly&lt;t33/&gt; &lt;t34/&gt;ipsum&lt;t35/&gt; &lt;t36/&gt;is&lt;t37/&gt; &lt;t38/&gt;one&lt;t39/&gt; &lt;t40/&gt;of&lt;t41/&gt; &lt;t42/&gt;them&lt;t43/&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180412T101616Z" creationid="bures" creationdate="20180412T101616Z">
+        <seg>Aaaaaaaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An ‘&lt;t0/&gt;extremely&lt;t1/&gt; &lt;t2/&gt;credible&lt;t3/&gt; source’ has &lt;t4/&gt;called&lt;t5/&gt; my &lt;t6/&gt;office&lt;t7/&gt; and &lt;t8/&gt;told&lt;t9/&gt; &lt;t10/&gt;me&lt;t11/&gt; that Barack &lt;t12/&gt;Obama’s&lt;t13/&gt; &lt;t14/&gt;placeholder&lt;t15/&gt; text &lt;t16/&gt;is&lt;t17/&gt; a &lt;t18/&gt;fraud&lt;t19/&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180412T101613Z" creationid="bures" creationdate="20180412T101613Z">
+        <seg>Extremely credible</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
